@@ -3,7 +3,7 @@
 
 ## 概要
 [AIWolfPy](https://github.com/k-harada/AIWolfPy)をベースに開発しましたが、通信部分以外はほぼ一から作っています。\
-アルゴリズムの解説は[Indigoアルゴリズム概要.pdf](/doc/Indigoアルゴリズム概要.pdf)をご覧ください。
+アルゴリズムの解説は[/doc/Indigo.pdf](/doc/Indigo.pdf)をご覧ください。
 
 ## 必要ライブラリ
 + [SudachiPy](https://github.com/WorksApplications/SudachiPy) (日本語形態素解析器)
